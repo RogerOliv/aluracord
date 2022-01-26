@@ -47,7 +47,8 @@ export default function HomePage() {
                alignItems: { xs: 'center', sm: 'end', md: 'end', lg: 'center' },
                paddingBottom: { xs: '0', sm: '20vw', md: '18vw', lg: '0' },
                justifyContent: 'center',
-               backgroundBlendMode: 'multiply',
+               backgroundBlendMode: 'normal',
+               backgroundColor: '#E5989B',
                backgroundImage: 'url(https://i.ibb.co/pnJg84Y/Sample-Bkg.png)',
                backgroundRepeat: 'no-repeat',
                backgroundSize: {
