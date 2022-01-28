@@ -55,7 +55,7 @@ export default function HomePage() {
                   xs: '100%',
                   sm: '120%',
                   md: '105%',
-                  lg: '100% 110%',
+                  lg: '110%',
                },
                'background-position': {
                   sm: '60% top',
